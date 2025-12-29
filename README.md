@@ -7,10 +7,4 @@
 - 🔭 I’m a **Data Engineer**
 
 - 💬 LinkedIn ** www.linkedin.com/in/veeranjaneyachari.
-  
 
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
